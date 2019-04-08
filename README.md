@@ -8,6 +8,11 @@
 # install dependencies
 npm install
 
+# install Plugin
+npm i vue bootstrap-vue bootstrap
+npm install vue-session
+npm install vue-tinymce-editor
+
 # serve with hot reload at localhost:8080
 npm run dev
 
